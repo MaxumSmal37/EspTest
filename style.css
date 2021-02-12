@@ -1,0 +1,28 @@
+.container
+{
+    margin-top: 100px;
+    margin-left: 200px;
+    display: flex;
+}
+
+.btn-1
+{
+    background-color: yellow;
+    padding: 15px 50px;
+    font-size: 30px;
+    border-radius: 10PX;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+.btn-2
+{
+    background-color: rgb(255, 0, 0);
+    padding: 15px 50px;
+    font-size: 30px;
+    border-radius: 10PX;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    
+}
